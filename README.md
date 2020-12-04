@@ -1,6 +1,6 @@
 # Acm-Template
- From SHU Mega 进化
+ From SHU Mega 进化.
 
+Zdxfgre && Plalyy && Zztrans.
 
-
-自己整理加东拼西凑的代码仓库
+自己整理加东拼西凑的代码仓库.
